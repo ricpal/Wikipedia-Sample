@@ -4,6 +4,10 @@ Colors:
 BA662A secondary rust
 2F3C33 tertiary sea green*/
 
+
+body {
+	background: url("../img/wall4.png");
+	}
 header {
 	
 	}
